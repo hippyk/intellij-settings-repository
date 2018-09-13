@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="vs" type="C#" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="lianfan" type="PLAIN_TEXT" />
+      <mapping pattern="暂存" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

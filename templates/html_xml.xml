@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="tv" value="&lt;TextView&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;        android:text=&quot;$string$&quot;&#10;        android:textSize=&quot;$cursor$sp&quot;/&gt;" description="text view" toReformat="false" toShortenFQNames="true">
+    <variable name="string" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

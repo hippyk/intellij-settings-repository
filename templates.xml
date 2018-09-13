@@ -1,0 +1,252 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="html/xml" />
+          <option name="key" value="t" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="html/xml" />
+          <option name="key" value="T" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="html/xml" />
+          <option name="key" value="T2" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="html/xml" />
+          <option name="key" value="CD" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="surround" />
+          <option name="key" value="P" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="surround" />
+          <option name="key" value="C" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="surround" />
+          <option name="key" value="RL" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="surround" />
+          <option name="key" value="WL" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="surround" />
+          <option name="key" value="I" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="Toast" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="rouiT" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="sbc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="Sfmt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="IntentView" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="ViewConstructors" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="rgS" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="wrapIt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="newInstance" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="noInstance" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="starter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="const" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="key" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="ccode" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="cfalse" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="clink" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="ctrue" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="fixme" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="noop" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="stopship" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="todo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="appNs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="toolsNs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lww" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lwm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lhw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lhm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lh" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="main" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="maino" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="serr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="soutv" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="soutp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="soutf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="ifn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="inn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="void" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="fun0" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="fun1" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="fun2" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="interface" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="singleton" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="closure" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="anonymous" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="exfun" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="exval" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="exvar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="psvm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="psvmo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="object" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

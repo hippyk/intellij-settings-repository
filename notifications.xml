@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
+    <notification groupId="Kotlin plugin updates" displayType="NONE" />
+    <notification groupId="Outdated Kotlin Runtime" displayType="NONE" />
+    <notification groupId="Platform and Plugin Updates" displayType="NONE" />
+  </component>
+</application>
