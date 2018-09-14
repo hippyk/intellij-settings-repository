@@ -76,12 +76,14 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="ContextHelp" />
+  <action id="CopyElement" />
   <action id="CopyPaths" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="ctrl f1" />
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="meta a" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
@@ -165,6 +167,10 @@
   <action id="RebuildGradleProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="alt a" />
@@ -225,6 +231,9 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Unwrap" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="context.save" />

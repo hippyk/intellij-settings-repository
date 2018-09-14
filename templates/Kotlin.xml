@@ -11,7 +11,6 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="async" value="object : AsyncTask&lt;Int, Void, Any&gt;() {&#10;                override fun onPreExecute() {&#10;                    super.onPreExecute()&#10;                    LoadingDialog.show(this@)&#10;                }&#10;        &#10;                override fun doInBackground(params: Array&lt;Int&gt;?): Any? {&#10;                    if (params == null || params.size == 0) {&#10;                        return null&#10;                    }&#10;                    try {&#10;                        return ServiceFactory.getDrugAdmService(context).getxxx(params[0])&#10;                    } catch (e: OtsBizException) {&#10;                        alertErrHandler.handleError(e.message)&#10;                        return null&#10;                    }&#10;            &#10;                }&#10;        &#10;                override fun onPostExecute(result: Any?) {&#10;                    LoadingDialog.dismiss()&#10;                    if (result != null) {&#10;                &#10;                    }&#10;                }&#10;            }.execute()" description="async task" toReformat="false" toShortenFQNames="true" />
   <template name="tod" value="//TOD " description="todo" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
@@ -20,16 +19,23 @@
   <template name="sout" value="println(&quot;lyn-------------- &quot; + $END$)" description="Prints a string to System.out" toReformat="true" toShortenFQNames="false">
     <context />
   </template>
-  <template name="ld" value="Log.d(TAG, &quot;$name$:&quot; + $value$)" description="log.debug" toReformat="false" toShortenFQNames="true">
+  <template name="ld" value="Log.d(&quot;lyn----------&quot; + localClassName, &quot;$name$:&quot; + $value$)" description="log.debug" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="li" value="Log.i(TAG, &quot;$name$:&quot; + $value$)" description="log.i" toReformat="false" toShortenFQNames="true">
+  <template name="li" value="Log.i(&quot;lyn----------&quot; + localClassName, &quot;$name$:&quot; + $value$)" description="log.i" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="pd" value="Handler().postDelayed({ $EXP$ }, $Int$L)" description="postDelay" toReformat="false" toShortenFQNames="true">
+    <variable name="EXP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Int" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
