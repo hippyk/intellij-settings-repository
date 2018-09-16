@@ -40,7 +40,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="stact" value="val starter = Intent(this, $ACTIVITY$::class.java)&#10;startActivity(starter)" toReformat="false" toShortenFQNames="true">
+  <template name="stact" value="val starter = Intent(this, $ACTIVITY$::class.java)&#10;startActivity(starter)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="ACTIVITY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_STATEMENT" value="true" />
