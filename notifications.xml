@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Android Notification Group" displayType="NONE" />
     <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
     <notification groupId="Kotlin plugin updates" displayType="NONE" />
     <notification groupId="Outdated Kotlin Runtime" displayType="NONE" />
     <notification groupId="Platform and Plugin Updates" displayType="NONE" />
