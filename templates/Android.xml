@@ -60,15 +60,6 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ld" value="Log.d(&quot;lyn- $METHOD_NAME$&quot;, &quot;$name$:&quot; + $value$);" description="log debug" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="KOTLIN_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="a" value="ItemDefBean = $v$!!.tag as ItemDefBean&#10;        if ($v$!!.visibility != View.GONE) {&#10;            //&#10;            if (!TextUtils.isEmpty($v$!!.text)) {&#10;                val patientVitalSighBean = initPostVitalSign(ItemDefBean) ?: return&#10;                patientVitalSighBean.numberValue1 = BigDecimal.valueOf(java.lang.Double.valueOf($v$!!.text.toString() + &quot;&quot;)!!)&#10;                postList.add(patientVitalSighBean)&#10;            }&#10;        }" description="" toReformat="false" toShortenFQNames="true">
     <variable name="v" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
