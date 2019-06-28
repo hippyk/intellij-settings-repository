@@ -11,6 +11,10 @@
           <option name="key" value="Toast" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="rouiT" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="AndroidComments" />
           <option name="key" value="todo" />
         </TemplateKey>
