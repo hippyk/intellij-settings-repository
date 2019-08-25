@@ -231,11 +231,18 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Unwrap" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="context.save" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt c" />
