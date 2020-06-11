@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="vs" type="C#" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="lianfan" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
